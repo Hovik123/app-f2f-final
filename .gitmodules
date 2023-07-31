@@ -1,3 +1,6 @@
 [submodule "apps/fieldcoach"]
 	path = apps/fieldcoach
 	url = git@github.com:Hovik123/sotre-choch-app.git
+[submodule "apps/fieldcoach-e2e"]
+	path = apps/fieldcoach-e2e
+	url = git@github.com:Hovik123/fieldcoach-e2e-demo-app.git
